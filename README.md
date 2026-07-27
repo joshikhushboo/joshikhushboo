@@ -18,35 +18,40 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 🔍 Passionate about writing clean, maintainable code
 🤝 Open to Full Stack Developer opportunities
 
-# 🛠️ Tech Stack
-Frontend                            
-React.js
-Next.js
-JavaScript (ES6+)
-HTML5
-CSS3
-Tailwind CSS
-Bootstrap
+## 🛠️ Tech Stack
 
-Backend
-Node.js
-Express.js
-REST APIs
-JWT Authentication
+### 🎨 Frontend
 
-Databases
-PostgreSQL
-MySQL
-MongoDB
-Prisma ORM
+* React.js
+* Next.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
 
-Tools & Technologies
-Git
-GitHub
-VS Code
-Postman
-Redis
-BullMQ
+### ⚙️ Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+
+### 🗄️ Databases
+
+* PostgreSQL
+* MySQL
+* MongoDB
+* Prisma ORM
+
+### 🛠️ Tools & Technologies
+
+* Git
+* GitHub
+* VS Code
+* Postman
+* Redis
+* BullMQ
 
 ## 🚀 Featured Projects
 
@@ -58,8 +63,8 @@ BullMQ
 
 
 # 📫 Connect With Me
+
 GitHub: https://github.com/joshikhushboo
-LinkedIn: (Add your profile link)
-Portfolio: (Add your portfolio link)
+LinkedIn: https://www.linkedin.com/in/khushboojoshi2007/
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
