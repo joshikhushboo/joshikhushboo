@@ -1,6 +1,7 @@
 
 Hi there 👋, I'm Khushboo Joshi
 💻 Full Stack Developer
+---
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
@@ -10,13 +11,14 @@ Hi there 👋, I'm Khushboo Joshi
 
 I'm a Full Stack Developer passionate about building scalable web applications and solving real-world problems through clean, efficient code. I enjoy working across the entire development stack—from responsive user interfaces to robust backend systems and databases.
 
-🚀 About Me
+# 🚀 About Me
 🎓 B.Tech in Computer Science & Engineering (AI & ML)
 💻 Interested in Full Stack Development
 🌱 Currently improving Data Structures & Algorithms and System Design
 🔍 Passionate about writing clean, maintainable code
 🤝 Open to Full Stack Developer opportunities
-🛠️ Tech Stack
+
+# 🛠️ Tech Stack
 Frontend                            
 React.js
 Next.js
@@ -37,6 +39,7 @@ PostgreSQL
 MySQL
 MongoDB
 Prisma ORM
+
 Tools & Technologies
 Git
 GitHub
@@ -52,13 +55,9 @@ BullMQ
 | **Ad Fit Analyzer** | AI-powered tool that evaluates the relevance between advertisements and landing pages using RAG and Google Gemini. | Next.js, React, Node.js, Tailwind CSS, Google Gemini |
 | **Personal Portfolio** | Responsive portfolio website showcasing my skills, projects, and a modern user interface. | HTML, CSS, JavaScript, Bootstrap, GitHub Pages |
 | **Health Prediction App** | Predicts health conditions from user input and provides AI-assisted insights. | Python, Streamlit, SQLite, Google Gemini |
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshikhushboo&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshikhushboo&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=joshikhushboo&theme=tokyonight)
-📫 Connect With Me
+# 📫 Connect With Me
 GitHub: https://github.com/joshikhushboo
 LinkedIn: (Add your profile link)
 Portfolio: (Add your portfolio link)
