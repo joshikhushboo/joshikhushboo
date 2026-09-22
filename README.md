@@ -60,7 +60,7 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 | **PlantScan – AI Plant Analysis Tool** | AI-powered web app that identifies plants, analyzes their health, and provides personalized care recommendations from uploaded images. | React, Node.js, Express.js, MongoDB, Google Gemini | [Live Demo](https://plant-analysis-tool-lsn4lxb4u-joshikhushboos-projects.vercel.app/) |
 | **AI Writing Assistant** | AI-powered writing tool that helps users improve, rewrite, and check their content with multiple writing styles. | React, Node.js, Express.js, MongoDB, Google Gemini, Privy | [Live Demo](https://ai-writing-assistant-hazel-six.vercel.app/) |
 | **MERN Chat App** | Real-time chat application supporting one-to-one and group messaging, file sharing, replies, typing indicators, and authentication. | MongoDB, Express.js, React, Node.js, Socket.IO, JWT | [Live Demo](https://mern-chat-omega-six.vercel.app/) |
-| **Personal Portfolio** | Interactive personal portfolio showcasing my skills, projects, and experience with smooth scrolling and modern animations. | React, GSAP, Lenis, JavaScript, CSS, Vite | [Live Demo]([YOUR_PORTFOLIO_LIVE_LINK](https://newportfolio-nu-seven.vercel.app/)) |
+| **Personal Portfolio** | Interactive personal portfolio showcasing my skills, projects, and experience with smooth scrolling and modern animations. | React, GSAP, Lenis, JavaScript, CSS, Vite | [Live Demo](https://newportfolio-nu-seven.vercel.app/) |
 
 # 📫 Connect With Me
 
