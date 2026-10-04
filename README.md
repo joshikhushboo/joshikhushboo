@@ -10,6 +10,7 @@ Hi there 👋, I'm Khushboo Joshi
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+---
 I'm a Full Stack Developer passionate about building scalable web applications and solving real-world problems through clean, efficient code. I enjoy working across the entire development stack—from responsive user interfaces to robust backend systems and databases.
 
 # 🚀 About Me
