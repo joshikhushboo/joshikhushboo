@@ -4,7 +4,6 @@ Hi there 👋, I'm Khushboo Joshi
 ---
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
@@ -23,7 +22,6 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 ### 🎨 Frontend
 
 * React.js
-* Next.js
 * JavaScript (ES6+)
 * HTML5
 * CSS3
@@ -39,10 +37,9 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 
 ### 🗄️ Databases
 
-* PostgreSQL
 * MySQL
 * MongoDB
-* Prisma ORM
+
 
 ### 🛠️ Tools & Technologies
 
@@ -50,8 +47,6 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 * GitHub
 * VS Code
 * Postman
-* Redis
-* BullMQ
 
 ## 🚀 Featured Projects
 
