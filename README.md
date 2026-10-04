@@ -5,7 +5,6 @@ Hi there 👋, I'm Khushboo Joshi
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
 I'm a Full Stack Developer passionate about building scalable web applications and solving real-world problems through clean, efficient code. I enjoy working across the entire development stack—from responsive user interfaces to robust backend systems and databases.
